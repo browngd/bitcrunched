@@ -1,0 +1,252 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: 404.php:4
+msgid "Sorry, but the page you were trying to view does not exist."
+msgstr ""
+
+#: 404.php:7
+msgid "It looks like this was the result of either:"
+msgstr ""
+
+#: 404.php:9
+msgid "a mistyped address"
+msgstr ""
+
+#: 404.php:10
+msgid "an out-of-date link"
+msgstr ""
+
+#: index.php:5
+msgid "Sorry, no results were found."
+msgstr ""
+
+#: index.php:17
+msgid "&larr; Older posts"
+msgstr ""
+
+#: index.php:18
+msgid "Newer posts &rarr;"
+msgstr ""
+
+#: lib/activation.php:33 lib/activation.php:34
+msgid "Theme Activation"
+msgstr ""
+
+#: lib/activation.php:70
+msgid "%s Theme Activation"
+msgstr ""
+
+#: lib/activation.php:85 lib/activation.php:87
+msgid "Create static front page?"
+msgstr ""
+
+#: lib/activation.php:89 lib/activation.php:102 lib/activation.php:115
+#: lib/activation.php:128 lib/activation.php:141
+msgid "Yes"
+msgstr ""
+
+#: lib/activation.php:90 lib/activation.php:103 lib/activation.php:116
+#: lib/activation.php:129 lib/activation.php:142
+msgid "No"
+msgstr ""
+
+#: lib/activation.php:93
+msgid "Create a page called Home and set it to be the static front page"
+msgstr ""
+
+#: lib/activation.php:98
+msgid "Change permalink structure?"
+msgstr ""
+
+#: lib/activation.php:100
+msgid "Update permalink structure?"
+msgstr ""
+
+#: lib/activation.php:106
+msgid "Change permalink structure to /&#37;postname&#37;/"
+msgstr ""
+
+#: lib/activation.php:111
+msgid "Change uploads folder?"
+msgstr ""
+
+#: lib/activation.php:113
+msgid "Update uploads folder?"
+msgstr ""
+
+#: lib/activation.php:119
+msgid "Change uploads folder to /assets/ instead of /wp-content/uploads/"
+msgstr ""
+
+#: lib/activation.php:124 lib/activation.php:126
+msgid "Create navigation menu?"
+msgstr ""
+
+#: lib/activation.php:132
+msgid "Create the Primary Navigation menu and set the location"
+msgstr ""
+
+#: lib/activation.php:137 lib/activation.php:139
+msgid "Add pages to menu?"
+msgstr ""
+
+#: lib/activation.php:145
+msgid "Add all current published pages to the Primary Navigation"
+msgstr ""
+
+#: lib/cleanup.php:382
+msgid "Continued"
+msgstr ""
+
+#: lib/init.php:11
+msgid "Primary Navigation"
+msgstr ""
+
+#: lib/utils.php:60
+msgid "Latest Posts"
+msgstr ""
+
+#: lib/utils.php:69
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: lib/utils.php:71
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: lib/utils.php:73
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: lib/utils.php:75
+msgid "Author Archives: %s"
+msgstr ""
+
+#: lib/utils.php:80
+msgid "Search Results for %s"
+msgstr ""
+
+#: lib/utils.php:82
+msgid "Not Found"
+msgstr ""
+
+#: lib/utils.php:94
+msgid "Please make sure your <a href=\"%s\">.htaccess</a> file is writable "
+msgstr ""
+
+#: lib/widgets.php:8
+msgid "Primary Sidebar"
+msgstr ""
+
+#: lib/widgets.php:17
+msgid "Footer"
+msgstr ""
+
+#: lib/widgets.php:45
+msgid "Use this widget to add a vCard"
+msgstr ""
+
+#: lib/widgets.php:47
+msgid "Roots: vCard"
+msgstr ""
+
+#: lib/widgets.php:74
+msgid "vCard"
+msgstr ""
+
+#: templates/comment.php:4
+msgid "%1$s"
+msgstr ""
+
+#: templates/comment.php:5
+msgid "(Edit)"
+msgstr ""
+
+#: templates/comment.php:9
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: templates/comments.php:8
+msgid "One Response to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Responses to &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/comments.php:18
+msgid "&larr; Older comments"
+msgstr ""
+
+#: templates/comments.php:21
+msgid "Newer comments &rarr;"
+msgstr ""
+
+#: templates/comments.php:29 templates/comments.php:38
+msgid "Comments are closed."
+msgstr ""
+
+#: templates/comments.php:45
+msgid "Leave a Reply"
+msgstr ""
+
+#: templates/comments.php:45
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: templates/comments.php:48
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: templates/comments.php:53
+msgid "Logged in as <a href=\"%s/wp-admin/profile.php\">%s</a>."
+msgstr ""
+
+#: templates/comments.php:54
+msgid "Log out of this account"
+msgstr ""
+
+#: templates/comments.php:54
+msgid "Log out &raquo;"
+msgstr ""
+
+#: templates/comments.php:57
+msgid "Name"
+msgstr ""
+
+#: templates/comments.php:57 templates/comments.php:59
+msgid " (required)"
+msgstr ""
+
+#: templates/comments.php:59
+msgid "Email (will not be published)"
+msgstr ""
+
+#: templates/comments.php:61
+msgid "Website"
+msgstr ""
+
+#: templates/comments.php:64
+msgid "Comment"
+msgstr ""
+
+#: templates/comments.php:66
+msgid "Submit Comment"
+msgstr ""
+
+#: templates/content-single.php:11
+msgid "Pages:"
+msgstr ""
+
+#: templates/entry-meta.php:2
+msgid "By"
+msgstr ""
+
+#: templates/searchform.php:2
+msgid "Search for:"
+msgstr ""
+
+#: templates/searchform.php:3 templates/searchform.php:4
+msgid "Search"
+msgstr ""
