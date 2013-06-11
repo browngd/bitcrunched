@@ -1,4 +1,4 @@
-<footer>
+<div class="page-footer">
     <div class="container">
       <div class="row">
         <div class="span3">
@@ -59,7 +59,7 @@
       </div>
     </div>
 
-  </footer>
+  </div>
   <div class="sub-footer">
       <div class="container">
 

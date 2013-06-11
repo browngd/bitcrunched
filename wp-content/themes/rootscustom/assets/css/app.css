@@ -16,11 +16,12 @@ hr {
   border-color: #f7f1e6;
 }
 a {
+  color: #fa6801;
   text-decoration: none !important;
 }
 a:hover,
 a:focus {
-  color: #ffffff;
+  color: #fea363;
   text-decoration: none !important;
 }
 /* =============================================================================
@@ -439,7 +440,7 @@ html[xmlns] .slides {
   padding: 5px;
   padding-left: 20px;
 }
-.widget-first {
+.title-widget {
   text-align: center;
   padding-left: 0;
 }
@@ -449,42 +450,42 @@ html[xmlns] .slides {
 /* ==========================================================================
    Footer
    ========================================================================== */
-footer {
+.page-footer {
   background: none repeat scroll 0 0 #302D26;
   color: #BBBBBB;
   padding: 20px 10px;
   margin-top: 30px;
 }
-footer a {
+.page-footer a {
   color: #EEEEEE;
   text-decoration: none;
 }
-footer a:hover {
+.page-footer a:hover {
   color: #fa6801;
   text-decoration: none;
 }
-footer h1,
-footer h2,
-footer h3,
-footer h4,
-footer h5,
-footer h6 {
+.page-footer h1,
+.page-footer h2,
+.page-footer h3,
+.page-footer h4,
+.page-footer h5,
+.page-footer h6 {
   color: #9CB408;
 }
-footer img.logo {
+.page-footer img.logo {
   margin-bottom: 30px;
 }
-footer address {
+.page-footer address {
   line-height: 1.6em;
 }
-footer h5.widgetheading {
+.page-footer h5.widgetheading {
   font-weight: 600;
   letter-spacing: -1px;
   margin-bottom: 20px;
   text-transform: none;
 }
-footer h5 a:hover,
-footer a:hover {
+.page-footer h5 a:hover,
+.page-footer a:hover {
   text-decoration: none;
 }
 ul.social-network {
