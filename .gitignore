@@ -2,3 +2,7 @@
 codekit-config.json
 
 .DS_Store
+
+wp-config.php
+
+.htaccess
