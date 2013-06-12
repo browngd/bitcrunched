@@ -1,0 +1,317 @@
+/* =Call to action widget
+----------------------------------------------- */
+/* Layout */
+.ts-widgets-call-to-action {
+	overflow: hidden;
+}
+
+.ts-widgets-call-to-action-cta {
+	line-height: 1.4;
+}
+
+.ts-widgets-call-to-action-button {
+	text-align: center;
+	overflow: hidden;
+	padding: 2px 0;
+}
+
+.ts-widgets-call-to-action-button a {
+	border: 1px solid rgba(0, 0, 0, 0.1);
+	display: inline-block;
+	font-size: 18px;
+	padding: 0.5em 1em;
+	text-align: center;
+	text-decoration: none;
+	max-width: 100%;
+	-webkit-transition: background, 0.15s;
+	-moz-transition: background, 0.15s;
+	-o-transition: background, 0.15s;
+	transition: background, 0.15s;
+	-webkit-border-radius: 0.3em;
+	-moz-border-radius: 0.3em;
+	-ms-border-radius: 0.3em;
+	-o-border-radius: 0.3em;
+	border-radius: 0.3em;
+	-webkit-box-shadow: inset 0 -0.5em 1em rgba(0, 0, 0, 0.1);
+	-moz-box-shadow: inset 0 -0.5em 1em rgba(0, 0, 0, 0.1);
+	box-shadow: inset 0 -0.5em 1em rgba(0, 0, 0, 0.1);
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+.ts-widgets-call-to-action-button a span.ts-widgets-call-to-action-first-line {
+	color: #fff;
+	text-shadow: 1px 1px 1px #333;
+	text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.75);
+}
+.ts-widgets-call-to-action-button a:hover {
+	text-decoration: none !important;
+}
+.ts-widgets-call-to-action-button a:active {
+	position: relative;
+	top: 1px;
+}
+
+.ts-widgets-call-to-action-button span {
+	display: block;
+	line-height: 1.25;
+}
+
+.ts-widgets-call-to-action-button span.ts-widgets-call-to-action-first-line {
+	font-weight: bold;
+	margin-bottom: 0.1em;
+}
+
+.ts-widgets-call-to-action-button span.ts-widgets-call-to-action-second-line {
+	font-size: 12px;
+}
+
+/* Button position */
+.ts-widgets-button-position-bottom .ts-widgets-call-to-action-text {
+	margin-bottom: 1.5em;
+}
+.ts-widgets-button-position-bottom .ts-widgets-call-to-action-button {
+	text-align: left;
+}
+
+.ts-widgets-button-position-right .ts-widgets-call-to-action-text {
+	float: left;
+	width: 70%;
+}
+.ts-widgets-button-position-right .ts-widgets-call-to-action-button {
+	float: right;
+	width: 25%;
+}
+
+.ts-widgets-button-position-left .ts-widgets-call-to-action-text {
+	float: right;
+	width: 70%;
+}
+.ts-widgets-button-position-left .ts-widgets-call-to-action-button {
+	float: left;
+	width: 25%;
+}
+
+/* Colors */
+.ts-widgets-button-color-yellow .ts-widgets-call-to-action-button a {
+	background: #f2b500;
+}
+.ts-widgets-button-color-yellow .ts-widgets-call-to-action-button a:hover {
+	background: #e8ad00;
+}
+.ts-widgets-button-color-yellow .ts-widgets-call-to-action-button a:active {
+	background: #d8a200;
+}
+.ts-widgets-button-color-yellow .ts-widgets-call-to-action-button a span.ts-widgets-call-to-action-second-line {
+	color: #725600;
+	color: rgba(0, 0, 0, 0.6);
+}
+
+.ts-widgets-button-color-blue .ts-widgets-call-to-action-button a {
+	background: #1668db;
+}
+.ts-widgets-button-color-blue .ts-widgets-call-to-action-button a:hover {
+	background: #145dc4;
+}
+.ts-widgets-button-color-blue .ts-widgets-call-to-action-button a:active {
+	background: #1152ad;
+}
+.ts-widgets-button-color-blue .ts-widgets-call-to-action-button a span.ts-widgets-call-to-action-second-line {
+	color: #96bdf4;
+	color: rgba(255, 255, 255, 0.5);
+}
+
+.ts-widgets-button-color-red .ts-widgets-call-to-action-button a {
+	background: #c43718;
+}
+.ts-widgets-button-color-red .ts-widgets-call-to-action-button a:hover {
+	background: #ad3115;
+}
+.ts-widgets-button-color-red .ts-widgets-call-to-action-button a:active {
+	background: #972a12;
+}
+.ts-widgets-button-color-red .ts-widgets-call-to-action-button a span.ts-widgets-call-to-action-second-line {
+	color: #f3ab9c;
+	color: rgba(255, 255, 255, 0.6);
+}
+
+.ts-widgets-button-color-green .ts-widgets-call-to-action-button a {
+	background: #468f1d;
+}
+.ts-widgets-button-color-green .ts-widgets-call-to-action-button a:hover {
+	background: #3c7a19;
+}
+.ts-widgets-button-color-green .ts-widgets-call-to-action-button a:active {
+	background: #316514;
+}
+.ts-widgets-button-color-green .ts-widgets-call-to-action-button a span.ts-widgets-call-to-action-second-line {
+	color: #91e065;
+	color: rgba(255, 255, 255, 0.6);
+}
+
+.ts-widgets-button-color-black .ts-widgets-call-to-action-button a {
+	background: #3a3c3d;
+}
+.ts-widgets-button-color-black .ts-widgets-call-to-action-button a:hover {
+	background: #2e2f30;
+}
+.ts-widgets-button-color-black .ts-widgets-call-to-action-button a:active {
+	background: #212223;
+}
+.ts-widgets-button-color-black .ts-widgets-call-to-action-button a span.ts-widgets-call-to-action-second-line {
+	color: #b9bcbd;
+	color: rgba(255, 255, 255, 0.6);
+}
+
+/* =Page tree widget
+----------------------------------------------- */
+ul.ts-widgets-page-tree {
+	list-style: disc;
+	padding: 0 0 0 1.5em;
+	margin: 0;
+}
+
+ul.ts-widgets-page-tree li {
+	margin-bottom: 0.25em;
+	line-height: 1.4;
+}
+
+ul.ts-widgets-page-tree ul {
+	margin: 0.5em 0 1em 1.25em !important;
+	list-style: circle;
+}
+
+ul.ts-widgets-page-tree .current_page_item > a {
+	font-weight: bold;
+}
+
+/* =List authors widget
+----------------------------------------------- */
+.ts-widgets-list-authors .ts-widgets-list-authors-author {
+	margin-bottom: 1.25em;
+	overflow: hidden;
+}
+.ts-widgets-list-authors .ts-widgets-list-authors-author ul {
+	margin: 0 !important;
+}
+.ts-widgets-list-authors .ts-widgets-list-authors-author li {
+	line-height: 1.4 !important;
+	margin-bottom: 0.3em;
+}
+.ts-widgets-list-authors .ts-widgets-list-authors-author img {
+	display: block;
+	float: left;
+}
+.ts-widgets-list-authors.ts-widgets-list-authors.ts-widgets-gravatar-size-64 .ts-widgets-list-authors-author {
+	margin-bottom: 1.75em;
+}
+.ts-widgets-list-authors .ts-widgets-list-authors-text {
+	display: block;
+	margin-left: 80px;
+	line-height: 1.4;
+}
+.ts-widgets-list-authors.ts-widgets-list-authors.ts-widgets-gravatar-size-48 .ts-widgets-list-authors-text {
+	margin-left: 60px;
+}
+.ts-widgets-list-authors.ts-widgets-list-authors.ts-widgets-gravatar-size-32 .ts-widgets-list-authors-text {
+	margin-left: 45px;
+}
+.ts-widgets-list-authors .ts-widgets-list-authors-name {
+	font-size: 1.1em;
+	font-weight: bold;
+	margin-bottom: 0.3em;
+}
+.ts-widgets-list-authors .ts-widgets-list-authors-name:hover {
+	cursor: pointer;
+}
+
+/* =Preview post widget
+----------------------------------------------- */
+.ts-widgets-post-preview-thumbnail {
+	margin-bottom: 0.75em;
+}
+.ts-widgets-post-preview-thumbnail img {
+	display: block;
+	max-width: 100%;
+	height: auto;
+}
+
+.ts-widgets-post-preview-excerpt {
+	margin-bottom: 1em !important;
+}
+
+/* =Social icons widget
+----------------------------------------------- */
+.ts-widgets-social-icons ul {
+	text-align: center;
+	font-size: 0;
+	overflow: hidden;
+}
+.ts-widgets-social-icons ul li {
+	display: block;
+	float: left;
+	margin: 0 0.4em 0.8em;
+	font-size: 13px;
+}
+.ts-widgets-social-icons ul li a {
+	display: block;
+	width: 48px;
+	height: 48px;
+	text-indent: -9999em;
+	background: url(../images/social-icons.png);
+}
+.ts-widgets-social-icons ul li a:hover {
+	box-shadow: 0 0 0.25em rgba(0, 0, 0, 0.75);
+}
+.ts-widgets-social-icons ul li.ts-widgets-social-icons-twitter a {
+	background-position: 0 0;
+}
+.ts-widgets-social-icons ul li.ts-widgets-social-icons-facebook a {
+	background-position: 0 -48px;
+}
+.ts-widgets-social-icons ul li.ts-widgets-social-icons-linkedin a {
+	background-position: 0 -96px;
+}
+.ts-widgets-social-icons ul li.ts-widgets-social-icons-googleplus a {
+	background-position: 0 -144px;
+}
+.ts-widgets-social-icons ul li.ts-widgets-social-icons-pinterest a {
+	background-position: 0 -192px;
+}
+.ts-widgets-social-icons ul li.ts-widgets-social-icons-youtube a {
+	background-position: 0 -240px;
+}
+.ts-widgets-social-icons ul li.ts-widgets-social-icons-vimeo a {
+	background-position: 0 -288px;
+}
+.ts-widgets-social-icons ul li.ts-widgets-social-icons-flickr a {
+	background-position: 0 -336px;
+}
+.ts-widgets-social-icons ul li.ts-widgets-social-icons-dribbble a {
+	background-position: 0 -384px;
+}
+.ts-widgets-social-icons ul li.ts-widgets-social-icons-tumblr a {
+	background-position: 0 -432px;
+}
+.ts-widgets-social-icons ul li.ts-widgets-social-icons-instagram a {
+	background-position: 0 -480px;
+}
+.ts-widgets-social-icons ul li.ts-widgets-social-icons-lastfm a {
+	background-position: 0 -528px;
+}
+.ts-widgets-social-icons ul li.ts-widgets-social-icons-reddit a {
+	background-position: 0 -576px;
+}
+
+/* =oEmbed widget
+----------------------------------------------- */
+.ts-widgets-oembed-content {
+	margin-bottom: 1em;
+}
+.ts-widgets-oembed-content embed, .ts-widgets-oembed-content iframe, .ts-widgets-oembed-content object, .ts-widgets-oembed-content video {
+	max-width: 100%;
+}
+
+.ts-widgets-oembed-description {
+	line-height: 1.5;
+}
