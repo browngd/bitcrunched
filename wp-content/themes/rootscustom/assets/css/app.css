@@ -575,9 +575,11 @@ figure.alignnone {
   }
   .green-box {
     width: 45%;
+    height: 150px;
   }
   .orange-box {
     width: 45%;
+    height: 150px;
   }
   .icon-orange {
     text-shadow: 2px 2px 2px #302D26;
