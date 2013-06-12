@@ -8,8 +8,8 @@
       <?php the_content(); ?>
     </div>
     <footer>
-      <?php wp_link_pages(array('before' => '<nav class="page-nav"><p>' . __('Pages:', 'roots'), 'after' => '</p></nav>')); ?>
-      <?php the_tags('Tagged with: ',' • ','<br />'); ?>
+      <?php wp_link_pages(array('before' => '<nav class="page-nav"><p>' . __('Pages:', 'roots'), 'after' => '</p></nav>')); ?><br />
+      <?php the_tags('Tagged with: ',' • ','<br />'); ?><br />
     </footer>
     <?php comments_template('/templates/comments.php'); ?>
   </article>
