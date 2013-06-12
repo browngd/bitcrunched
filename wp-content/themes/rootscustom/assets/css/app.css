@@ -563,6 +563,7 @@ figure.alignnone {
   }
   .navbar-inner {
     height: 55px;
+    border-bottom: 15px solid #9cb408;
   }
   .collapse {
     width: 100%;
