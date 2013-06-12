@@ -554,6 +554,10 @@ figure.alignnone {
   
 }
 @media (max-width: 979px) {
+  .content {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
   .collapse {
     width: 100%;
   }
