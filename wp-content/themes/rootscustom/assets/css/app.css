@@ -573,6 +573,12 @@ figure.alignnone {
     background: #9cb408;
     border-radius: none;
   }
+  .green-box {
+    width: 45%;
+  }
+  .orange-box {
+    width: 45%;
+  }
   .icon-orange {
     text-shadow: 2px 2px 2px #302D26;
     font-size: 20px;
