@@ -576,10 +576,12 @@ figure.alignnone {
   .green-box {
     width: 45%;
     height: 150px;
+    margin-bottom: 10px;
   }
   .orange-box {
     width: 45%;
     height: 150px;
+    margin-bottom: 10px;
   }
   .icon-orange {
     text-shadow: 2px 2px 2px #302D26;
