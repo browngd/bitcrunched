@@ -558,6 +558,12 @@ figure.alignnone {
     padding-left: 10px;
     padding-right: 10px;
   }
+  .banner {
+    height: 55px;
+  }
+  .navbar-inner {
+    height: 55px;
+  }
   .collapse {
     width: 100%;
   }
