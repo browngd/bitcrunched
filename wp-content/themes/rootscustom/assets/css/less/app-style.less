@@ -116,6 +116,13 @@ a:hover, a:focus {
 .dropdown-menu >li > a:hover {
    background: @orange;
 }
+.dropdown-menu > .active > a, .dropdown-menu > .active > a:hover, .dropdown-menu > .active > a:focus {
+  background-color: @orange;
+  background-image: none;
+  color:#FFFFFF;
+  outline:0;
+  text-decoration:none;
+}
 .nav-header {
   color: @orange;
   text-shadow: none;
@@ -609,10 +616,6 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
   padding-right: 10px;
 }
 .banner {
-  height: 55px;
-}
-.navbar-inner {
-  height: 55px;
   border-bottom: 15px solid @green;
 }
 .collapse {
