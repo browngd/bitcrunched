@@ -6,3 +6,4 @@ codekit-config.json
 wp-config.php
 
 .htaccess
+assets/.DS_Store
