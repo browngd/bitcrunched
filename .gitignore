@@ -1,7 +1,7 @@
 
 codekit-config.json
 
-.DS_Store
+.DS*
 
 wp-config.php
 
