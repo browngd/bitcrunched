@@ -1,109 +1,94 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http://localhost:8888/bitcrunched/plugins/google-sitemap-generator/sitemap.xsl"?><!-- generator="wordpress/3.5.1" -->
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http://www.bitcrunched.com/plugins/google-sitemap-generator/sitemap.xsl"?><!-- generator="wordpress/444" -->
 <!-- sitemap-generator-url="http://www.arnebrachhold.de" sitemap-generator-version="3.2.9" -->
-<!-- generated-on="June 28, 2013 10:12 pm" -->
-<!-- Debug: Total comment count: 1 -->
+<!-- generated-on="June 19, 2013 6:26 am" -->
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	<url>
-		<loc>http://localhost:8888/bitcrunched/</loc>
-		<lastmod>2013-06-11T15:31:57+00:00</lastmod>
+		<loc>http://www.bitcrunched.com/</loc>
+		<lastmod>2013-06-11T15:47:57+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
-<!-- Debug: Start Postings -->
 	<url>
-		<loc>http://localhost:8888/bitcrunched/our-work/</loc>
-		<lastmod>2013-06-28T22:11:14+00:00</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.6</priority>
-	</url>
-<!-- Debug: Priority report of postID 146: Comments: 0 of 1 = 0 points -->
-	<url>
-		<loc>http://localhost:8888/bitcrunched/less-is-more-getting-started-with-less-part-1/</loc>
-		<lastmod>2013-06-12T01:58:22+00:00</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.2</priority>
-	</url>
-	<url>
-		<loc>http://localhost:8888/bitcrunched/blog/</loc>
-		<lastmod>2013-06-11T20:50:15+00:00</lastmod>
-		<changefreq>weekly</changefreq>
+		<loc>http://www.bitcrunched.com/less-is-more-getting-started-with-less-part-2-2/</loc>
+		<lastmod>2013-06-13T03:48:38+00:00</lastmod>
+		<changefreq>daily</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>http://localhost:8888/bitcrunched/it-consulting/</loc>
-		<lastmod>2013-06-10T18:04:07+00:00</lastmod>
-		<changefreq>weekly</changefreq>
+		<loc>http://www.bitcrunched.com/less-is-more-getting-started-with-less-part-1/</loc>
+		<lastmod>2013-06-13T02:43:18+00:00</lastmod>
+		<changefreq>daily</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>http://localhost:8888/bitcrunched/it-auditing/</loc>
-		<lastmod>2013-06-10T18:04:00+00:00</lastmod>
-		<changefreq>weekly</changefreq>
+		<loc>http://www.bitcrunched.com/contact/</loc>
+		<lastmod>2013-06-12T16:22:22+00:00</lastmod>
+		<changefreq>daily</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>http://localhost:8888/bitcrunched/remote-support/</loc>
-		<lastmod>2013-06-10T18:03:43+00:00</lastmod>
-		<changefreq>weekly</changefreq>
+		<loc>http://www.bitcrunched.com/blog/</loc>
+		<lastmod>2013-06-11T20:48:25+00:00</lastmod>
+		<changefreq>daily</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>http://localhost:8888/bitcrunched/network-security/</loc>
-		<lastmod>2013-06-10T18:03:27+00:00</lastmod>
-		<changefreq>weekly</changefreq>
+		<loc>http://www.bitcrunched.com/it-consulting/</loc>
+		<lastmod>2013-06-11T20:20:25+00:00</lastmod>
+		<changefreq>daily</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>http://localhost:8888/bitcrunched/networking/</loc>
-		<lastmod>2013-06-10T18:03:16+00:00</lastmod>
-		<changefreq>weekly</changefreq>
+		<loc>http://www.bitcrunched.com/it-auditing/</loc>
+		<lastmod>2013-06-11T20:14:13+00:00</lastmod>
+		<changefreq>daily</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>http://localhost:8888/bitcrunched/virus-removal/</loc>
-		<lastmod>2013-06-10T18:03:10+00:00</lastmod>
-		<changefreq>weekly</changefreq>
+		<loc>http://www.bitcrunched.com/remote-support/</loc>
+		<lastmod>2013-06-11T20:02:39+00:00</lastmod>
+		<changefreq>daily</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>http://localhost:8888/bitcrunched/computer-upgrades/</loc>
-		<lastmod>2013-06-10T18:02:55+00:00</lastmod>
-		<changefreq>weekly</changefreq>
+		<loc>http://www.bitcrunched.com/network-security/</loc>
+		<lastmod>2013-06-11T19:59:31+00:00</lastmod>
+		<changefreq>daily</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>http://localhost:8888/bitcrunched/computer-repair/</loc>
-		<lastmod>2013-06-10T18:02:47+00:00</lastmod>
-		<changefreq>weekly</changefreq>
+		<loc>http://www.bitcrunched.com/networking/</loc>
+		<lastmod>2013-06-11T18:04:25+00:00</lastmod>
+		<changefreq>daily</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>http://localhost:8888/bitcrunched/web-design/</loc>
-		<lastmod>2013-06-10T18:02:30+00:00</lastmod>
-		<changefreq>weekly</changefreq>
+		<loc>http://www.bitcrunched.com/virus-removal/</loc>
+		<lastmod>2013-06-11T17:47:03+00:00</lastmod>
+		<changefreq>daily</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>http://localhost:8888/bitcrunched/contact/</loc>
-		<lastmod>2013-06-10T18:02:15+00:00</lastmod>
-		<changefreq>weekly</changefreq>
+		<loc>http://www.bitcrunched.com/computer-upgrades/</loc>
+		<lastmod>2013-06-11T17:24:14+00:00</lastmod>
+		<changefreq>daily</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>http://localhost:8888/bitcrunched/about/</loc>
-		<lastmod>2013-06-10T18:01:57+00:00</lastmod>
-		<changefreq>weekly</changefreq>
+		<loc>http://www.bitcrunched.com/computer-repair/</loc>
+		<lastmod>2013-06-11T17:21:47+00:00</lastmod>
+		<changefreq>daily</changefreq>
 		<priority>0.6</priority>
 	</url>
-<!-- Debug: Priority report of postID 1: Comments: 1 of 1 = 1 points -->
 	<url>
-		<loc>http://localhost:8888/bitcrunched/hello-world/</loc>
-		<lastmod>2013-06-08T17:45:32+00:00</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1.0</priority>
+		<loc>http://www.bitcrunched.com/about/</loc>
+		<lastmod>2013-06-11T17:17:34+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.6</priority>
 	</url>
-<!-- Debug: End Postings -->
-<!-- Debug: Start Custom Pages -->
-<!-- Debug: End Custom Pages -->
-<!-- Debug: Start additional URLs -->
-<!-- Debug: End additional URLs -->
+	<url>
+		<loc>http://www.bitcrunched.com/web-design/</loc>
+		<lastmod>2013-06-11T17:15:11+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.6</priority>
+	</url>
 </urlset>
