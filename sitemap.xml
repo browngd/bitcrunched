@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http://localhost:8888/bitcrunched/plugins/google-sitemap-generator/sitemap.xsl"?><!-- generator="wordpress/3.5.1" -->
+<!-- sitemap-generator-url="http://www.arnebrachhold.de" sitemap-generator-version="3.2.9" -->
+<!-- generated-on="June 28, 2013 10:12 pm" -->
+<!-- Debug: Total comment count: 1 -->
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	<url>
+		<loc>http://localhost:8888/bitcrunched/</loc>
+		<lastmod>2013-06-11T15:31:57+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.0</priority>
+	</url>
+<!-- Debug: Start Postings -->
+	<url>
+		<loc>http://localhost:8888/bitcrunched/our-work/</loc>
+		<lastmod>2013-06-28T22:11:14+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: Priority report of postID 146: Comments: 0 of 1 = 0 points -->
+	<url>
+		<loc>http://localhost:8888/bitcrunched/less-is-more-getting-started-with-less-part-1/</loc>
+		<lastmod>2013-06-12T01:58:22+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>http://localhost:8888/bitcrunched/blog/</loc>
+		<lastmod>2013-06-11T20:50:15+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://localhost:8888/bitcrunched/it-consulting/</loc>
+		<lastmod>2013-06-10T18:04:07+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://localhost:8888/bitcrunched/it-auditing/</loc>
+		<lastmod>2013-06-10T18:04:00+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://localhost:8888/bitcrunched/remote-support/</loc>
+		<lastmod>2013-06-10T18:03:43+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://localhost:8888/bitcrunched/network-security/</loc>
+		<lastmod>2013-06-10T18:03:27+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://localhost:8888/bitcrunched/networking/</loc>
+		<lastmod>2013-06-10T18:03:16+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://localhost:8888/bitcrunched/virus-removal/</loc>
+		<lastmod>2013-06-10T18:03:10+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://localhost:8888/bitcrunched/computer-upgrades/</loc>
+		<lastmod>2013-06-10T18:02:55+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://localhost:8888/bitcrunched/computer-repair/</loc>
+		<lastmod>2013-06-10T18:02:47+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://localhost:8888/bitcrunched/web-design/</loc>
+		<lastmod>2013-06-10T18:02:30+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://localhost:8888/bitcrunched/contact/</loc>
+		<lastmod>2013-06-10T18:02:15+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://localhost:8888/bitcrunched/about/</loc>
+		<lastmod>2013-06-10T18:01:57+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: Priority report of postID 1: Comments: 1 of 1 = 1 points -->
+	<url>
+		<loc>http://localhost:8888/bitcrunched/hello-world/</loc>
+		<lastmod>2013-06-08T17:45:32+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>1.0</priority>
+	</url>
+<!-- Debug: End Postings -->
+<!-- Debug: Start Custom Pages -->
+<!-- Debug: End Custom Pages -->
+<!-- Debug: Start additional URLs -->
+<!-- Debug: End additional URLs -->
+</urlset>
