@@ -43,7 +43,7 @@
         <div class="span3 pull-right">
           <div class="widget">
 
-          <img src="http://www.bitcrunched.com/assets/sdvosb1.png">
+          <img src="http://www.bitcrunched.com/assets/sdvosb1.png" class="img-rounded img-polaroid">
 
 
           </div>
