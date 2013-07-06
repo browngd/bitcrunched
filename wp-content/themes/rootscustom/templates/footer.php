@@ -1,7 +1,7 @@
 <div class="page-footer">
     <div class="container">
       <div class="row">
-        <div class="span3">
+        <div class="span4">
           <div class="widget">
             <span style="font-size: 24px; color: #889D07 !important; text-shadow: rgba(0,0,0,0.1) 0px 1px 1px">Bit</span><span style="font-size: 24px; color: #FA6801 !important; text-shadow: rgba(0,0,0,0.9) 0px 1px 1px">Crunched!</span></p>
             <address>
@@ -27,25 +27,7 @@
             <?php the_title(); ?>
             </a></li>
           </ul>
-            <?php endwhile;?>
-
-          </div>
-        </div>
-
-        <div class="span3">
-          <div class="widget">
-            <h5 class="widgetheading">Stay updated</h5>
-            <p>
-            Enter your email to subcribe to our newsletter.
-            </p>
-            <form class="subscribe">
-              <div class="input-append">
-                <input type="text" id="appendedInputButton" class="span2">
-                <button type="submit" class="btn btn-warning">Subscribe</button>
-              </div>
-            </form>
-
-
+            <?php endwhile;?><br/><br/>
             <h5 class="widgetheading">Social network</h5>
             <ul class="social-network">
               <li><a title="" data-placement="bottom" href="#" data-original-title="Twitter"><i class="icon-twitter-sign icon-2x"></i></a></li>
@@ -55,6 +37,15 @@
               <li><a title="" data-placement="bottom" href="#" data-original-title="Google plus"><i class="icon-google-plus icon-2x"></i></a></li>
               <li><a title="" data-placement="bottom" href="#" data-original-title="Behance"><i class="font-icon-social-behance icon-circled active"></i></a></li>
             </ul>
+          </div>
+        </div>
+
+        <div class="span3 pull-right">
+          <div class="widget">
+
+          <img src="http://www.bitcrunched.com/assets/sdvosb1.png">
+
+
           </div>
         </div>
       </div>
